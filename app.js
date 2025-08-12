@@ -14,10 +14,10 @@ app.get('/', (req, res) => {
         <style>
             body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f8f9fa; }
             .container { max-width: 900px; margin: 0 auto; background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-            h1 { color: #232f3e; margin-bottom: 20px; }
-            h2 { color: #232f3e; border-bottom: 2px solid #ff9900; padding-bottom: 10px; margin-top: 30px; }
+            h1 { color: #3f4854ff; margin-bottom: 20px; }
+            h2 { color: #333e4bff; border-bottom: 2px solid #00ffbbff; padding-bottom: 10px; margin-top: 30px; }
             .btn { background: #ff9900; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin: 10px 0; }
-            .btn:hover { background: #e68900; }
+            .btn:hover { background: #118f4eff; }
             ul { line-height: 1.6; }
             li { margin-bottom: 8px; }
         </style>

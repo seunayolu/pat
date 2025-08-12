@@ -1,0 +1,15 @@
+{
+  "name": "ebs-landing-page",
+  "version": "1.0.0",
+  "description": "Simple landing page for Elastic Beanstalk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
